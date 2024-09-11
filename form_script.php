@@ -123,5 +123,5 @@ class dbconfig
 // Read records
 // $res = mysqli_query($conn, "SELECT * FROM register_user");
 
-?>
+
 
